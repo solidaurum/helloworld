@@ -1,0 +1,14 @@
+c:\users\ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Controls.GASettings.resources
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.application
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe.manifest
+C:\Users\Ammon\documents\visual studio 2013\Projects\compitition\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.application
